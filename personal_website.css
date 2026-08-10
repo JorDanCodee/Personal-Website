@@ -11,3 +11,9 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+table {
+  border: 3px double rgb(11, 202, 21);
+  border-collapse: collapse;
+
+}
