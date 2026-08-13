@@ -67,7 +67,6 @@ table {
   margin: 0px auto;
   background-color: rgb(255, 255, 255);
   border-top: 30px solid rgb(252, 106, 53);
-  
 }
 
 .grid-box img {
@@ -92,6 +91,47 @@ table {
   padding: 100px;
 }
 
-.border {
-  border: 10 px solid rgb(234, 0, 0);
+.sb{
+  border-left: 10px solid rgb(252, 106, 53)
+
+}
+
+.cgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  padding: 14px 16px;
+  margin: 0px auto;
+  background-color: rgb(255, 255, 255);
+
+}
+
+.GISgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  padding: 14px 16px;
+  margin: 0px auto;
+  background-color: rgb(255, 255, 255);
+
+}
+
+.REgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  padding: 14px 16px;
+  margin: 0px auto;
+  background-color: rgb(255, 255, 255);
+
+}
+
+.Hgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  padding: 14px 16px;
+  margin: 0px auto;
+  background-color: rgb(255, 255, 255);
+
 }
