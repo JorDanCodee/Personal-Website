@@ -8,7 +8,7 @@ h1 {
 }
 
 p {
-  font-family: verdana;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
 }
 
@@ -50,6 +50,7 @@ table {
   max-width: 1000px;
   margin: 0px auto;
   background-color: white;
+  
 }
 
 .grid-box img {
@@ -62,6 +63,7 @@ table {
 .text {
   text-align: center;
   color: black;
+  font-family: 'Times New Roman', Times, serif;
   
 }
 
